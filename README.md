@@ -37,13 +37,23 @@ To clean the dataset and enhance its features by handling missing and incorrect 
 
 ## Step 2: Preview Data
 
+![Screenshot](Images/PreviewData.png)
+
 ## Step 3: Check missing values
+
+![Screenshot](Images/Checkmissingvalues.png)
 
 ## Step 4: Data type
 
+![Screenshot](Images/DataType.png)
+
 ## Step 5: Unique values in categorical columns
 
+![Screenshot](Images/Uniquevalues.png)
+
 ## Step 6: Column - wise completeness
+
+![Screenshot](Images/Column-wisecompleteness.png)
 
 ## Conclusion
 
