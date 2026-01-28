@@ -33,7 +33,7 @@ To clean the dataset and enhance its features by handling missing and incorrect 
 ## Step 1: Loading the Dataset
 
 - import pandas as pd df = pd.read_csv('insurance.csv')
-  (Images/import.png)
+  ![Import](Images/import.png)
 
 ## Step 2: Preview Data
 
@@ -41,7 +41,7 @@ To clean the dataset and enhance its features by handling missing and incorrect 
 
 ## Step 3: Check missing values
 
-![Screenshot](Images/Checkmissingvalues.png)
+![Screenshot](Images/CheckMissingValues.png)
 
 ## Step 4: Data type
 
